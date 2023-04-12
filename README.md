@@ -40,7 +40,7 @@ The project includes the following features:
 The project can be expanded further by incorporating additional virtual sensors and advanced analytics to gain insights from the collected data.
 
 ### Acknowledgments
-[Paho MQTT](https://www.eclipse.org/paho/index.php)
-[Thingsboard](https://thingsboard.io/)
-[Python](https://www.python.org/)
+1. [Paho MQTT](https://www.eclipse.org/paho/index.php)
+2. [Thingsboard](https://thingsboard.io/)
+3. [Python](https://www.python.org/)
 
