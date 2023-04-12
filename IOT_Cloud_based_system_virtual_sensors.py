@@ -7,11 +7,11 @@ import csv
 
 
 # MQTT broker address and port and topic
-ACCESS_TOKEN_1='1qntU93Qh1Eqs39uN2Eg'
-ACCESS_TOKEN_2='7NZGPA9yJ7GYhZpG5SwY'
-broker_address = "demo.thingsboard.io"
+ACCESS_TOKEN_1='Enter Token Here'
+ACCESS_TOKEN_2='Enter Token Here'
+broker_address = "Enter Broker Address Here"
 broker_port = 1883
-topic = "v1/devices/me/telemetry"
+topic = "Enter Topic Here"
 
 # Virtual Enviornmental station 1 function
 def get_sensor_data_station_1():
